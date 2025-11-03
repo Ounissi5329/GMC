@@ -37,20 +37,5 @@
 
 ---
 
-## 🚀 Comment exécuter le projet
 
-1. 📥 Télécharger ou cloner le dépôt :
-   ```bash
-   git clone https://github.com/samah-saidi/Formation-Software-Developper-GMC/tree/main/DOM_Project1
-
-
----
-
-## Auteur
-
-👩‍💻 **Samah Saidi** - *Développeur Data Science*
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
 
