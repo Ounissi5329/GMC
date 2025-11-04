@@ -101,10 +101,3 @@ CSS
 
 Ce projet est réalisé dans le cadre d’un checkpoint JSX et React Components. N'hésitez pas à ajouter d'autres produits, animations, ou effets visuels pour le rendre unique ! ✨
 
-## 👩‍💻 Auteur
-
-Samah Saidi - Développeur Data Science
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
