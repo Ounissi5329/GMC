@@ -54,10 +54,4 @@ Ajoutez/modifiez les objets joueurs
 
 Sauvegardez et l'application se mettra à jour automatiquement
 
-## 👩‍💻 Auteur
 
-Samah Saidi - Développeur Data Science
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
