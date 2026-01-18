@@ -203,28 +203,3 @@ Les contributions sont les bienvenues ! Pour contribuer :
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 👩‍💻 Auteur
-
-Samah Saidi - Développeur Data Science
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
-
-## 🙏 Remerciements
-
-- ⚛️ Équipe React pour cette incroyable bibliothèque
-- 🔄 Équipe Redux pour la gestion d'état
-- 🎨 Communauté open source pour l'inspiration
-- 📚 GoMyCode pour la formation
-
----
-
-<div align="center">
-
-### ⭐ N'oubliez pas de donner une étoile si ce projet vous a aidé !
-
-**Fait avec ❤️ et beaucoup de ☕**
-
-</div>
