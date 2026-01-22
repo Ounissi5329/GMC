@@ -354,9 +354,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **Votre Nom**
 
-- 💼 LinkedIn: [@samah SAIDI](www.linkedin.com/in/samah-saidi-005196253)
-- 🐙 GitHub: [@samah-saidi](https://github.com/samah-saidi)
-- 📧 Email: samah.saidi@polytechnicien.tn
+
 
 ---
 
