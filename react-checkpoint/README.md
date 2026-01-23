@@ -63,11 +63,3 @@ Ce projet est une application React simple réalisée dans le cadre du checkpoin
 ![Aperçu de l'application](assets/images/result.png)
 
 ---
-
-## 👩‍💻 Auteur
-
-Samah Saidi - Développeur Data Science
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
