@@ -77,12 +77,6 @@ Grâce à l'utilisation de flexbox, grid et media queries bien configurés.
 
 ---
 
-## Auteur
-
-👩‍💻 **Samah Saidi** - *Développeur Data Science*
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
+i
 
 
