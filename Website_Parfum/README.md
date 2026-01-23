@@ -34,11 +34,3 @@ Ce projet présente un site responsive avec catalogue de produits, page d'accuei
 
 ---
 
-## Auteur
-
-👩‍💻 **Samah Saidi** - *Développeur Data Science*
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
-
