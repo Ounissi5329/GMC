@@ -37,14 +37,3 @@ portfolio/
 │       └── test.mp3
 
 ```
-
-
----
-
-## Auteur
-
-👩‍💻 **Samah Saidi** - *Développeur Data Science*
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
