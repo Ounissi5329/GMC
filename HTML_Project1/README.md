@@ -61,8 +61,9 @@ README.md
 
 ## Auteur
 
-👩‍💻 **Samah Saidi** - *Développeur Data Science*
+👩‍💻 Auteur
+Mohamed OUNISSI - Développeur Data Science
 
-📧 Contact: samah.saidi@polytechnicien.tn
+📧 Contact: mohamedounissi7543@gmail.com
 
-🔗 GitHub: https://github.com/samah-saidi
+[🔗 GitHub:https://github.com/Ounissi5329
