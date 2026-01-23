@@ -94,10 +94,3 @@ Tablets (2-column layout)
 
 Desktops (3-column layout)
 
-## Auteur
-
-👩‍💻 Samah Saidi - Développeur Data Science
-
-📧 Contact: samah.saidi@polytechnicien.tn
-
-🔗 GitHub: https://github.com/samah-saidi
